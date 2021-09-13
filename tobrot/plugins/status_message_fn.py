@@ -87,7 +87,7 @@ async def status_message_f(client, message):
         f'<b>├  📀 Total Used Space : {used}</b>\n' \
         f'<b>├  💿 Total Free Space : {free}</b>\n' \
         f'<b>│</b>\n' \
-        f'<b>╰───「 🚸 Root Gamer YT 🚸 」</b>'
+        f'<b>╰───「 🚸 SANJITH 🚸 」</b>'
     )
     # LOGGER.info(ms_g)
 
